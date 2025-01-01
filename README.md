@@ -1,4 +1,4 @@
-# Embedded-Bootcamp
+# Colin's Embedded-Bootcamp
 
 ## Welcome to the WARG Firmware Bootcamp! 
 
